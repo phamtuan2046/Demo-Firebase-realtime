@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#102029</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">@color/bgr_button</color>
+
+    <color name="tabIndicatorColor">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="bg_light_gray">#9E9E9E</color>
+    <color name="tabtextselect">#92daec</color>
+
+    <color name="bgr_schedule">#102029</color>
+    <color name="bgr_tab">#66000000</color>
+    <color name="tab_text">#f4fcc8</color>
+    <color name="white">#ffffff</color>
+
+    <color name="bgr_title">#59102029</color>
+    <color name="divider_light">#97dddddd</color>
+    <color name="bgr_button">#FF5722</color>
+</resources>

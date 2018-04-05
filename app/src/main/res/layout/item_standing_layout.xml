@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:background="@android:color/transparent"
+    android:padding="@dimen/_4sdp">
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/viewLeft"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_4sdp"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:id="@+id/imgAvatar"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                tools:src="@drawable/argentina" />
+
+            <TextView
+                android:id="@+id/tvName"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:layout_marginLeft="@dimen/_4sdp"
+                android:layout_weight="0"
+                android:gravity="center_vertical"
+                tools:text="Argentina" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvGroup"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="@dimen/_10sdp"
+            android:gravity="center_vertical"
+            android:visibility="gone"
+            tools:text="A" />
+    </RelativeLayout>
+
+    <TextView
+        android:id="@+id/tvTotalMatch"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvMatchW"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvMatchD"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvMatchL"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvRecordGoal"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvAllowGoal"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_vertical"
+        android:layout_weight="0"
+        android:gravity="center"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvGoalDiff"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        tools:text="0" />
+
+    <TextView
+        android:id="@+id/tvPoint"
+        style="@style/tvItemStanding"
+        android:layout_width="@dimen/_22sdp"
+        android:layout_height="wrap_content"
+        android:layout_weight="0"
+        tools:text="0" />
+</LinearLayout>

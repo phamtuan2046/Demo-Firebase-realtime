@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">FIFA WorldCup</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="nav_fixture">GROUP STAGE</string>
+    <string name="nav_standings">STANDINGS</string>
+    <string name="nav_knockout">KNOCKOUT</string>
+    <string name="nav_more_app">MORE APP</string>
+    <string name="nav_rate_app">RATE APP</string>
+    <string name="nav_stadium">STADIUMS</string>
+    <string name="nav_about">ABOUT</string>
+    <string name="tab_1_3">Stage 1</string>
+    <string name="tab_2_3">Stage 2</string>
+    <string name="tab_3_3">Stage 3</string>
+    <string name="knockout_tab_1">Round-16</string>
+    <string name="knockout_tab_2">Quar-Fn</string>
+    <string name="knockout_tab_3">Semi-Fn</string>
+    <string name="knockout_tab_4">Final</string>
+    <string name="rate_dialog_content">How was your experience with us?</string>
+    <string name="about_title">World Schedule 2018</string>
+
+
+    <string name="about_btn_rate">Rate us on Play store</string>
+    <string name="about_btn_more_love">Show us more love</string>
+    <string name="about_btn_spread_word">Spread the word</string>
+    <string name="about_btn_feed_back">Feed us back</string>
+    <string name="about_btn_googgle_plus">Google Plus</string>
+    <string name="about_btn_facebook">Facebook</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+</resources>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_fixture"
+            android:icon="@drawable/ic_group"
+            android:title="@string/nav_fixture" />
+        <item
+            android:id="@+id/nav_standings"
+            android:icon="@drawable/ic_stadings"
+            android:title="@string/nav_standings" />
+        <item
+            android:id="@+id/nav_knockout"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/nav_knockout" />
+        <item
+            android:id="@+id/nav_stadium"
+            android:icon="@drawable/ic_stadium"
+            android:title="@string/nav_stadium" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/nav_more_app"
+                android:icon="@drawable/ic_more_app"
+                android:title="@string/nav_more_app" />
+            <item
+                android:id="@+id/nav_rate_app"
+                android:icon="@drawable/ic_rate_app"
+                android:title="@string/nav_rate_app" />
+            <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/ic_menu_send"
+                android:title="@string/nav_about" />
+        </menu>
+    </item>
+
+</menu>
