@@ -1,0 +1,962 @@
+{
+  "FINAL" : [ {
+    "group" : "Match 61",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "L61"
+    }, {
+      "name" : "L62"
+    } ],
+    "time" : "2018-07-14 21:00 +0700"
+  }, {
+    "group" : "Match 62",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "W61"
+    }, {
+      "name" : "W62"
+    } ],
+    "time" : "2018-07-15 22:00 +0700"
+  } ],
+  "FIRST_STAGE_1_3" : [ {
+    "group" : "GROUP A",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "Russia"
+    }, {
+      "name" : "Saudi Arabia"
+    } ],
+    "time" : "2018-06-14 22:00 +0700"
+  }, {
+    "group" : "GROUP A",
+    "stadium" : "Ekaterinburg Arena",
+    "teams" : [ {
+      "name" : "Egypt"
+    }, {
+      "name" : "Uruguay"
+    } ],
+    "time" : "2018-06-15 19:00 +0700"
+  }, {
+    "group" : "GROUP B",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "Morocco"
+    }, {
+      "name" : "Iran"
+    } ],
+    "time" : "2018-06-15 22:00 +0700"
+  }, {
+    "group" : "GROUP B",
+    "stadium" : "Fisht Stadium",
+    "teams" : [ {
+      "name" : "Portugal"
+    }, {
+      "name" : "Spain"
+    } ],
+    "time" : "2018-06-16 01:00 +0700"
+  }, {
+    "group" : "GROUP C",
+    "stadium" : "Kazan Arena ",
+    "teams" : [ {
+      "name" : "France"
+    }, {
+      "name" : "Australia"
+    } ],
+    "time" : "2018-06-16 17:00 +0700"
+  }, {
+    "group" : "GROUP D",
+    "stadium" : "Spartak Stadium",
+    "teams" : [ {
+      "name" : "Argentina"
+    }, {
+      "name" : "Iceland"
+    } ],
+    "time" : "2018-06-16 20:00 +0700"
+  }, {
+    "group" : "GROUP C",
+    "stadium" : "Mordovia Arena",
+    "teams" : [ {
+      "name" : "Peru"
+    }, {
+      "name" : "Denmark"
+    } ],
+    "time" : "2018-06-16 23:00 +0700"
+  }, {
+    "group" : "GROUP D",
+    "stadium" : "Kaliningrad Stadium",
+    "teams" : [ {
+      "name" : "Croatia"
+    }, {
+      "name" : "Nigeria"
+    } ],
+    "time" : "2018-06-17 02:00 +0700"
+  }, {
+    "group" : "GROUP E",
+    "stadium" : "Samara Arena",
+    "teams" : [ {
+      "name" : "Costa Rica"
+    }, {
+      "name" : "Serbia"
+    } ],
+    "time" : "2018-06-17 19:00 +0700"
+  }, {
+    "group" : "GROUP F",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "Germany"
+    }, {
+      "name" : "Mexico"
+    } ],
+    "time" : "2018-06-17 22:00 +0700"
+  }, {
+    "group" : "GROUP E",
+    "stadium" : "Rostov Arena",
+    "teams" : [ {
+      "name" : "Brazil"
+    }, {
+      "name" : "Switzerland"
+    } ],
+    "time" : "2018-06-18 01:00 +0700"
+  }, {
+    "group" : "GROUP F",
+    "stadium" : "Nizhny Novgorod Stadium",
+    "teams" : [ {
+      "name" : "Sweden"
+    }, {
+      "name" : "South Korea"
+    } ],
+    "time" : "2018-06-18 19:00 +0700"
+  }, {
+    "group" : "GROUP G",
+    "stadium" : "Fisht Stadium",
+    "teams" : [ {
+      "name" : "Belgium"
+    }, {
+      "name" : "Panama"
+    } ],
+    "time" : "2018-06-18 22:00 +0700"
+  }, {
+    "group" : "GROUP G",
+    "stadium" : "Volgograd Arena",
+    "teams" : [ {
+      "name" : "Tunisia"
+    }, {
+      "name" : "England"
+    } ],
+    "time" : "2018-06-19 01:00 +0700"
+  }, {
+    "group" : "GROUP H",
+    "stadium" : "Mordovia Arena",
+    "teams" : [ {
+      "name" : "Colombia"
+    }, {
+      "name" : "Japan"
+    } ],
+    "time" : "2018-06-19 19:00 +0700"
+  }, {
+    "group" : "GROUP H",
+    "stadium" : "Spartak Stadium",
+    "teams" : [ {
+      "name" : "Poland"
+    }, {
+      "name" : "Senegal"
+    } ],
+    "time" : "2018-06-19 22:00 +0700"
+  } ],
+  "FIRST_STAGE_2_3" : [ {
+    "group" : "GROUP A",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "Russia"
+    }, {
+      "name" : "Egypt"
+    } ],
+    "time" : "2018-06-20 01:00 +0700"
+  }, {
+    "group" : "GROUP B",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "Portugal"
+    }, {
+      "name" : "Morocco"
+    } ],
+    "time" : "2018-06-20 19:00 +0700"
+  }, {
+    "group" : "GROUP A",
+    "stadium" : "Rostov Arena",
+    "teams" : [ {
+      "name" : "Uruguay"
+    }, {
+      "name" : "Saudi Arabia"
+    } ],
+    "time" : "2018-06-20 22:00 +0700"
+  }, {
+    "group" : "GROUP B",
+    "stadium" : "Kazan Arena",
+    "teams" : [ {
+      "name" : "Iran"
+    }, {
+      "name" : "Spain"
+    } ],
+    "time" : "2018-06-21 01:00 +0700"
+  }, {
+    "group" : "GROUP C",
+    "stadium" : "Samara Arena",
+    "teams" : [ {
+      "name" : "Denmark"
+    }, {
+      "name" : "Australia"
+    } ],
+    "time" : "2018-06-21 19:00 +0700"
+  }, {
+    "group" : "GROUP C",
+    "stadium" : "Ekaterinburg Arena",
+    "teams" : [ {
+      "name" : "France"
+    }, {
+      "name" : "Peru"
+    } ],
+    "time" : "2018-06-21 22:00 +0700"
+  }, {
+    "group" : "GROUP D",
+    "stadium" : "Nizhny Novgorod Stadium",
+    "teams" : [ {
+      "name" : "Argentina"
+    }, {
+      "name" : "Croatia"
+    } ],
+    "time" : "2018-06-22 01:00 +0700"
+  }, {
+    "group" : "GROUP E",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "Brazil"
+    }, {
+      "name" : "Costa Rica"
+    } ],
+    "time" : "2018-06-22 19:00 +0700"
+  }, {
+    "group" : "GROUP D",
+    "stadium" : "Volgograd Arena",
+    "teams" : [ {
+      "name" : "Nigeria"
+    }, {
+      "name" : "Iceland"
+    } ],
+    "time" : "2018-06-22 22:00 +0700"
+  }, {
+    "group" : "GROUP E",
+    "stadium" : "Kaliningrad Stadium",
+    "teams" : [ {
+      "name" : "Serbia"
+    }, {
+      "name" : "Switzerland"
+    } ],
+    "time" : "2018-06-23 01:00 +0700"
+  }, {
+    "group" : "GROUP G",
+    "stadium" : "Spartak Stadium",
+    "teams" : [ {
+      "name" : "Belgium"
+    }, {
+      "name" : "Tunisia"
+    } ],
+    "time" : "2018-06-23 19:00 +0700"
+  }, {
+    "group" : "GROUP F",
+    "stadium" : "Rostov Arena",
+    "teams" : [ {
+      "name" : "South Korea"
+    }, {
+      "name" : "Mexico"
+    } ],
+    "time" : "2018-06-23 22:00 +0700"
+  }, {
+    "group" : "GROUP F",
+    "stadium" : "Fisht Stadium",
+    "teams" : [ {
+      "name" : "Germany"
+    }, {
+      "name" : "Switzerland"
+    } ],
+    "time" : "2018-06-24 01:00 +0700"
+  }, {
+    "group" : "GROUP G",
+    "stadium" : "Nizhny Novgorod Stadium",
+    "teams" : [ {
+      "name" : "England"
+    }, {
+      "name" : "Panama"
+    } ],
+    "time" : "2018-06-24 19:00 +0700"
+  }, {
+    "group" : "GROUP H",
+    "stadium" : "Ekaterinburg Arena",
+    "teams" : [ {
+      "name" : "Japan"
+    }, {
+      "name" : "Senegal"
+    } ],
+    "time" : "2018-06-24 22:00 +0700"
+  }, {
+    "group" : "GROUP H",
+    "stadium" : "Kazan Arena",
+    "teams" : [ {
+      "name" : "Poland"
+    }, {
+      "name" : "Colombia"
+    } ],
+    "time" : "2018-06-25 01:00 +0700"
+  } ],
+  "FIRST_STAGE_3_3" : [ {
+    "group" : "GROUP A",
+    "stadium" : "Volgograd Arena",
+    "teams" : [ {
+      "name" : "Saudi Arabia"
+    }, {
+      "name" : "Egypt"
+    } ],
+    "time" : "2018-06-25 21:00 +0700"
+  }, {
+    "group" : "GROUP A",
+    "stadium" : "Samara Arena",
+    "teams" : [ {
+      "name" : "Uruguay"
+    }, {
+      "name" : "Russia"
+    } ],
+    "time" : "2018-06-25 21:00 +0700"
+  }, {
+    "group" : "GROUP B",
+    "stadium" : "Mordovia Arena",
+    "teams" : [ {
+      "name" : "Iran"
+    }, {
+      "name" : "Portugal"
+    } ],
+    "time" : "2018-06-26 01:00 +0700"
+  }, {
+    "group" : "GROUP B",
+    "stadium" : "Kaliningrad Stadium",
+    "teams" : [ {
+      "name" : "Spain"
+    }, {
+      "name" : "Morocco"
+    } ],
+    "time" : "2018-06-26 01:00 +0700"
+  }, {
+    "group" : "GROUP C",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "Denmark"
+    }, {
+      "name" : "France"
+    } ],
+    "time" : "2018-06-26 21:00 +0700"
+  }, {
+    "group" : "GROUP C",
+    "stadium" : "Fisht Stadium",
+    "teams" : [ {
+      "name" : "Australia"
+    }, {
+      "name" : "Peru"
+    } ],
+    "time" : "2018-06-26 21:00 +0700"
+  }, {
+    "group" : "GROUP D",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "Nigeria"
+    }, {
+      "name" : "Argentina"
+    } ],
+    "time" : "2018-06-27 01:00 +0700"
+  }, {
+    "group" : "GROUP D",
+    "stadium" : "Rostov Arena",
+    "teams" : [ {
+      "name" : "Iceland"
+    }, {
+      "name" : "Croatia"
+    } ],
+    "time" : "2018-06-27 01:00 +0700"
+  }, {
+    "group" : "GROUP F",
+    "stadium" : "Ekaterinburg Arena",
+    "teams" : [ {
+      "name" : "Mexico"
+    }, {
+      "name" : "Switzerland"
+    } ],
+    "time" : "2018-06-27 21:00 +0700"
+  }, {
+    "group" : "GROUP F",
+    "stadium" : "Kazan Arena",
+    "teams" : [ {
+      "name" : "South Korea"
+    }, {
+      "name" : "Germany"
+    } ],
+    "time" : "2018-06-27 21:00 +0700"
+  }, {
+    "group" : "GROUP E",
+    "stadium" : "Spartak Stadium",
+    "teams" : [ {
+      "name" : "Serbia"
+    }, {
+      "name" : "Brazil"
+    } ],
+    "time" : "2018-06-28 01:00 +0700"
+  }, {
+    "group" : "GROUP E",
+    "stadium" : "Nizhny Novgorod Stadium",
+    "teams" : [ {
+      "name" : "Switzerland"
+    }, {
+      "name" : "Costa Rica"
+    } ],
+    "time" : "2018-06-28 01:00 +0700"
+  }, {
+    "group" : "GROUP H",
+    "stadium" : "Volgograd Arena",
+    "teams" : [ {
+      "name" : "Japan"
+    }, {
+      "name" : "Poland"
+    } ],
+    "time" : "2018-06-28 21:00 +0700"
+  }, {
+    "group" : "GROUP H",
+    "stadium" : "Samara Arena",
+    "teams" : [ {
+      "name" : "Senegal"
+    }, {
+      "name" : "Colombia"
+    } ],
+    "time" : "2018-06-28 21:00 +0700"
+  }, {
+    "group" : "GROUP G",
+    "stadium" : "Mordovia Arena",
+    "teams" : [ {
+      "name" : "Panama"
+    }, {
+      "name" : "Tunisia"
+    } ],
+    "time" : "2018-06-29 01:00 +0700"
+  }, {
+    "group" : "GROUP G",
+    "stadium" : "Kaliningrad Stadium",
+    "teams" : [ {
+      "name" : "England"
+    }, {
+      "name" : "Belgium"
+    } ],
+    "time" : "2018-06-29 01:00 +0700"
+  } ],
+  "GROUP A" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Egypt",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Russia",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Saudi Arabia",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Uruguay",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP B" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Iran",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Morocco",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Portugal",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Spain",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP C" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Australia",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Denmark",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "France",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Peru",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP D" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Argentina",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Croatia",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Iceland",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Nigeria",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP E" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Brazil",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Costa Rica",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Switzerland",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Serbia",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP F" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Germany",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "South Korea",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Mexico",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Sweden",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP G" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Belgium",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "England",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Panama",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Tunisia",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "GROUP H" : [ {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Colombia",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Japan",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Poland",
+    "point" : 0,
+    "recordGoals" : 0
+  }, {
+    "allowGoals" : 0,
+    "goalDifference" : 0,
+    "matchD" : 0,
+    "matchL" : 0,
+    "matchW" : 0,
+    "matches" : 0,
+    "name" : "Senegal",
+    "point" : 0,
+    "recordGoals" : 0
+  } ],
+  "QUARTER_FINALS" : [ {
+    "group" : "Match 57",
+    "stadium" : "Nizhny Novgorod Stadium",
+    "teams" : [ {
+      "name" : "W49"
+    }, {
+      "name" : "W50"
+    } ],
+    "time" : "2018-07-06 21:00 +0700"
+  }, {
+    "group" : "Match 58",
+    "stadium" : "Kazan Arena",
+    "teams" : [ {
+      "name" : "W53"
+    }, {
+      "name" : "W54"
+    } ],
+    "time" : "2018-07-07 01:00 +0700"
+  }, {
+    "group" : "Match 59",
+    "stadium" : "Samara Arena",
+    "teams" : [ {
+      "name" : "W55"
+    }, {
+      "name" : "W56"
+    } ],
+    "time" : "2018-07-07 21:00 +0700"
+  }, {
+    "group" : "Match 60",
+    "stadium" : "Fisht Stadium",
+    "teams" : [ {
+      "name" : "W51"
+    }, {
+      "name" : "W52"
+    } ],
+    "time" : "2018-07-08 01:00 +0700"
+  } ],
+  "ROUND_1_16" : [ {
+    "group" : "Match 49",
+    "stadium" : "Kazan Arena",
+    "teams" : [ {
+      "name" : "1C"
+    }, {
+      "name" : "2D"
+    } ],
+    "time" : "2018-06-30 21:00 +0700"
+  }, {
+    "group" : "Match 50",
+    "stadium" : "Fisht Stadium",
+    "teams" : [ {
+      "name" : "1A"
+    }, {
+      "name" : "2B"
+    } ],
+    "time" : "2018-07-01 01:00 +0700"
+  }, {
+    "group" : "Match 51",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "1B"
+    }, {
+      "name" : "2A"
+    } ],
+    "time" : "2018-07-01 21:00 +0700"
+  }, {
+    "group" : "Match 52",
+    "stadium" : "Nizhny Novgorod Stadiuma",
+    "teams" : [ {
+      "name" : "1D"
+    }, {
+      "name" : "2C"
+    } ],
+    "time" : "2018-07-02 01:00 +0700"
+  }, {
+    "group" : "Match 53",
+    "stadium" : "Samara Arena",
+    "teams" : [ {
+      "name" : "1E"
+    }, {
+      "name" : "2F"
+    } ],
+    "time" : "2018-07-02 21:00 +0700"
+  }, {
+    "group" : "Match 54",
+    "stadium" : "Rostov Arena",
+    "teams" : [ {
+      "name" : "1G"
+    }, {
+      "name" : "2H"
+    } ],
+    "time" : "2018-07-03 01:00 +0700"
+  }, {
+    "group" : "Match 55",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "1F"
+    }, {
+      "name" : "2E"
+    } ],
+    "time" : "2018-07-03 21:00 +0700"
+  }, {
+    "group" : "Match 56",
+    "stadium" : "Spartak Stadium",
+    "teams" : [ {
+      "name" : "1H"
+    }, {
+      "name" : "2G"
+    } ],
+    "time" : "2018-07-04 01:00 +0700"
+  } ],
+  "SEMI_FINALS" : [ {
+    "group" : "Match 61",
+    "stadium" : "Saint Petersburg Stadium",
+    "teams" : [ {
+      "name" : "W57"
+    }, {
+      "name" : "W58"
+    } ],
+    "time" : "2018-07-11 01:00 +0700"
+  }, {
+    "group" : "Match 62",
+    "stadium" : "Luzhniki Stadium",
+    "teams" : [ {
+      "name" : "W59"
+    }, {
+      "name" : "W60"
+    } ],
+    "time" : "2018-07-12 01:00 +0700"
+  } ],
+  "STADIUM_2018" : [ {
+    "capacity" : "81.006",
+    "city" : "Moscow",
+    "name" : "Luzhniki Stadium"
+  }, {
+    "capacity" : "35.696",
+    "city" : "Ekaterinburg",
+    "name" : "Ekaterinburg Arena"
+  }, {
+    "capacity" : "35.212",
+    "city" : "Kaliningrad",
+    "name" : "Kaliningrad Stadium"
+  }, {
+    "capacity" : "44.779",
+    "city" : "Kazan",
+    "name" : "Kazan Arena"
+  }, {
+    "capacity" : "43.298",
+    "city" : "Moscow",
+    "name" : "Spartak Stadium"
+  }, {
+    "capacity" : "45.331",
+    "city" : "Novgorod",
+    "name" : "Nizhny Novgorod Stadium"
+  }, {
+    "capacity" : "45.145",
+    "city" : "Rostov-on-Don",
+    "name" : "Rostov Arena"
+  }, {
+    "capacity" : "68.134",
+    "city" : "Saint Petersburg",
+    "name" : "Saint Petersburg Stadium"
+  }, {
+    "capacity" : "44.807",
+    "city" : "Samara",
+    "name" : "Samara Arena"
+  }, {
+    "capacity" : "44.442",
+    "city" : "Saransk",
+    "name" : "Mordovia Arena"
+  }, {
+    "capacity" : "47.700",
+    "city" : "Sochi",
+    "name" : "Fisht Stadium"
+  }, {
+    "capacity" : "45.568",
+    "city" : "Volgograd",
+    "name" : "Volgograd Arena"
+  } ]
+}
