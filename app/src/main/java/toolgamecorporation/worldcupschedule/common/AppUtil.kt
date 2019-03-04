@@ -19,14 +19,12 @@ object AppUtil {
         }
     }
     fun gotoMyStore(context: Context){
-        var intentMarketAll = Intent("android.intent.action.VIEW")
-        intentMarketAll.data = Uri.parse("https://play.google.com/store/apps/developer?id=ToolGameCorporation")
-        context.startActivity(intentMarketAll)
+       
     }
     fun sendFeedback(activity: Activity){
         ShareCompat.IntentBuilder
                 .from(activity)
-                .setEmailTo(arrayOf("phamtuan2046@gmail.com"))
+                .setEmailTo(arrayOf("youremail"))
                 .setSubject("World Schedule")
                 .setType("text/email")
                 .setChooserTitle("Send Feedback")
